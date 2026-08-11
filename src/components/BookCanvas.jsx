@@ -29,19 +29,19 @@ const BookCanvas = ({ active, setActive }) => {
                 <div className="card1">
                     <div className="cover-text-wrapper">
                         <h4 className="username">
-                            Dear Trisha<span className="underline"></span>
+                            Dear Rena<span className="underline"></span>
                         </h4>
                         <h3 className="cover-title">
                             Happy Birthday!
                         </h3>
                         <p className="cover-subtitle">
-                            A purr-fect message just for you... 💌
+                            A perfect message just for you... 💌
                         </p>
                     </div>
 
                     {/* User Image remains the same */}
                     <div className="userImg">
-                        <img src={orihime} alt="Recipient's Photo" />
+                        <img src="https://raw.githubusercontent.com/ssf-kariparambu/Home/main/Rena.jpg" alt="Recipient's Photo" />
                     </div>
 
                     {/* New Hello Kitty themed decoration */}
@@ -68,7 +68,7 @@ const BookCanvas = ({ active, setActive }) => {
 
                         {/* Swapping back to H2 to match the original CSS targeting */}
                         <div className="card2-message-text italic">
-                            <article style={{ marginBottom: '8px' }}>Happy Birthday, Trisha ❤️</article>
+                            <article style={{ marginBottom: '8px' }}>Happy Birthday, Rena ❤️</article>
                             <article style={{ marginBottom: '10px' }}>From the moment we met, something in my life shifted—like the universe quietly guiding me toward someone meant for me.You brought warmth into the parts of me I didn’t even know were cold, And you expanded my days with a dimension I can only call my own.</article>
                             <article style={{ marginBottom: '10px' }}>On your birthday, I just want you to know this: I want you with me in every chapter, every storm, every sunshine, every tomorrow. No matter what comes, I’ll be on your side—always. I’ll choose you, protect you, stand with you, and love you in ways that remind you you’re never alone.</article>
                             <article style={{ marginBottom: '10px' }}>You’re not just another year older today… <br />
@@ -91,7 +91,7 @@ const BookCanvas = ({ active, setActive }) => {
                         <div className="confetti-dots"></div>
 
                         <p className="signature">
-                            Your Best Friend, Rexon
+                            Your Best Friend, Swalih
                         </p>
                     </div>
                 </div>
