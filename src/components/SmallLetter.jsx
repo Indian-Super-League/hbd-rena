@@ -85,7 +85,7 @@ const SmallLetter = () => {
                             I hope this little letter brings a smile to your face.
                             You deserve all the happiness in the world. 💕
                             <br /><br />
-                            — Swalih
+                         Swalih
                         </p>
                     </div>
 
